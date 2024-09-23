@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\data\\cart.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\data\\cart.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|c:\\users\\flino\\desktop\\product-trial-master\\back\\altenshopapi\\altenshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF1CAB5-D224-456A-8F02-DCF4059176E6}|AltenShopAPI\\AltenShopAPI.csproj|solutionrelative:altenshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Services\\CartService.cs",
+              "RelativeToolTip": "AltenShopAPI\\Services\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:05:26.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.json",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Data\\cart.json",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Data\\cart.json",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Data\\cart.json",
+              "RelativeToolTip": "AltenShopAPI\\Data\\cart.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T11:32:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "AltenShopAPI\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:30:31.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AltenShopAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:39:32.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "AltenShopAPI\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:17:43.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Program.cs",
+              "RelativeToolTip": "AltenShopAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:32:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Models\\Product.cs",
+              "RelativeToolTip": "AltenShopAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:31:29.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Data\\products.json",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Data\\products.json",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Data\\products.json",
+              "RelativeToolTip": "AltenShopAPI\\Data\\products.json",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T10:16:03.048Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "AltenShopAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\flino\\Desktop\\product-trial-master\\back\\AltenShopAPI\\AltenShopAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "AltenShopAPI\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:21:59.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

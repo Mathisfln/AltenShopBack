@@ -1,0 +1,68 @@
+{
+  "Items": [
+    {
+      "Id": 1008,
+      "Code": "vbb124btr",
+      "Name": "Game Controller",
+      "Description": "Product Description",
+      "Image": "game-controller.jpg",
+      "Category": "Electronics",
+      "Price": 99,
+      "Quantity": 0,
+      "InternalReference": "REF-123-456",
+      "ShellId": 15,
+      "InventoryStatus": "LOWSTOCK",
+      "Rating": 4,
+      "CreatedAt": 1718114215761,
+      "UpdatedAt": 1718114215761
+    },
+    {
+      "Id": 1008,
+      "Code": "vbb124btr",
+      "Name": "Game Controller",
+      "Description": "Product Description",
+      "Image": "game-controller.jpg",
+      "Category": "Electronics",
+      "Price": 99,
+      "Quantity": 0,
+      "InternalReference": "REF-123-456",
+      "ShellId": 15,
+      "InventoryStatus": "LOWSTOCK",
+      "Rating": 4,
+      "CreatedAt": 1718114215761,
+      "UpdatedAt": 1718114215761
+    },
+    {
+      "Id": 1014,
+      "Code": "waas1x2as",
+      "Name": "Headphones",
+      "Description": "Product Description",
+      "Image": "headphones.jpg",
+      "Category": "Electronics",
+      "Price": 175,
+      "Quantity": 0,
+      "InternalReference": "REF-123-456",
+      "ShellId": 15,
+      "InventoryStatus": "LOWSTOCK",
+      "Rating": 5,
+      "CreatedAt": 1718114215761,
+      "UpdatedAt": 1718114215761
+    },
+    {
+      "Id": 0,
+      "Code": "",
+      "Name": "Raquette de Tennis ",
+      "Description": "Pour \u00EAtre aussi fort que Nadal",
+      "Image": "",
+      "Category": "Fitness",
+      "Price": 160,
+      "Quantity": 0,
+      "InternalReference": "",
+      "ShellId": 0,
+      "InventoryStatus": "INSTOCK",
+      "Rating": 0,
+      "CreatedAt": 0,
+      "UpdatedAt": 0
+    }
+  ]
+}
